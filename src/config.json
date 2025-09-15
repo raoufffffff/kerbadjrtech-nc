@@ -14,7 +14,7 @@
   "header": {
     "name": true,
     "logo": true,
-    "headercolor": "#fafafa",
+    "headercolor": "#8b0be0",
     "namecolor": "#030202",
     "barcolor": "#000000"
   },
@@ -25,8 +25,8 @@
     "homebutton": true,
     "phone": true,
     "media": true,
-    "titleText": "شكرا لثقتكم بنا ",
-    "aboutText": "سوف نراسلكم لتأكيد طلبكم "
+    "titleText": "يعطيك الصحة رفهتني ",
+    "aboutText": "زيد أشري "
   },
   "language": "en",
   "EnableBerue": false
