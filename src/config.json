@@ -14,9 +14,9 @@
   "header": {
     "name": true,
     "logo": true,
-    "headercolor": "#e40707",
-    "namecolor": "#151bcb",
-    "barcolor": "#f5e000"
+    "headercolor": "#fafafa",
+    "namecolor": "#030202",
+    "barcolor": "#000000"
   },
   "thanks": {
     "img": true,
@@ -25,8 +25,8 @@
     "homebutton": true,
     "phone": true,
     "media": true,
-    "titleText": "Thank you for your order!",
-    "aboutText": "We will contact you soon. Have a nice day."
+    "titleText": "يعطيك الصحة رفهتني ",
+    "aboutText": "زيد أشري "
   },
   "language": "en",
   "EnableBerue": false
