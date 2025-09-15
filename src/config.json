@@ -14,12 +14,12 @@
   "header": {
     "name": true,
     "logo": true,
-    "headercolor": "#5c0f8f",
-    "namecolor": "#ffffff",
-    "barcolor": "#ffffff"
+    "headercolor": "#fafafa",
+    "namecolor": "#030202",
+    "barcolor": "#000000"
   },
   "thanks": {
-    "img": true,
+    "img": false,
     "title": true,
     "about": true,
     "homebutton": false,
