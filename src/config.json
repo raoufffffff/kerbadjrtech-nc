@@ -1,9 +1,10 @@
 {
   "id": "68c883cddd730fd7a986bf7e",
   "logo": "https://i.ibb.co/k2GBrQ97/Photography-Icons-in-Blue-removebg-preview.png",
+  "store_name": "krtech",
   "main_color": "#001637ff",
   "phone": "0698320894",
-  "repoName": "kerbadjrtech",
+  "repoName": "kerbadjrtech-nc",
   "facebook": "https://www.facebook.com/",
   "instagram": "https://www.instagram.com/",
   "tiktok": "https://www.tiktok.com/",
@@ -26,5 +27,7 @@
     "media": true,
     "titleText": "Thank you for your order!",
     "aboutText": "We will contact you soon. Have a nice day."
-  }
+  },
+  "language": "en",
+  "EnableBerue": false
 }
