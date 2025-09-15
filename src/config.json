@@ -14,9 +14,9 @@
   "header": {
     "name": true,
     "logo": true,
-    "headercolor": "#a956e1",
-    "namecolor": "#f5f5f5",
-    "barcolor": "#faf8fc"
+    "headercolor": "#fafafa",
+    "namecolor": "#030202",
+    "barcolor": "#000000"
   },
   "thanks": {
     "img": true,
@@ -25,8 +25,8 @@
     "homebutton": true,
     "phone": true,
     "media": true,
-    "titleText": "يعطيك الصحة رفهتني ",
-    "aboutText": "زيد أشري "
+    "titleText": "شكرا لثقتكم بنا ",
+    "aboutText": "سوف نراسلكم لتأكيد طلبكم "
   },
   "language": "en",
   "EnableBerue": false
