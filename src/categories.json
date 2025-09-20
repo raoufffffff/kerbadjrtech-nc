@@ -1,11 +1,5 @@
 [
   {
-    "name": "pack promo 10 jour",
-    "image": "https://i.ibb.co/HfFZ66nz/blob.webp",
-    "show": false,
-    "id": 1
-  },
-  {
     "name": "sponsor",
     "image": "https://i.ibb.co/v6S332Py/blob.webp",
     "show": true,
