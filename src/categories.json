@@ -6,12 +6,6 @@
     "id": 1
   },
   {
-    "name": "pack promo 1 mois ",
-    "image": "https://i.ibb.co/ZpNY0vwX/blob.webp",
-    "show": false,
-    "id": 2
-  },
-  {
     "name": "sponsor",
     "image": "https://i.ibb.co/v6S332Py/blob.webp",
     "show": true,
