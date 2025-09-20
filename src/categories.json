@@ -10,5 +10,11 @@
     "name": "graphic desing ",
     "show": true,
     "id": 6
+  },
+  {
+    "name": "social media ads ",
+    "image": "https://i.ibb.co/v6S332Py/blob.webp",
+    "show": true,
+    "id": 3
   }
 ]
