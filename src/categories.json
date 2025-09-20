@@ -16,5 +16,11 @@
     "image": "https://i.ibb.co/q3Yxd6nF/blob.webp",
     "show": false,
     "id": 3
+  },
+  {
+    "name": "sponsor",
+    "image": "https://i.ibb.co/v6S332Py/blob.webp",
+    "show": true,
+    "id": 4
   }
 ]
