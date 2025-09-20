@@ -47,7 +47,7 @@
         "curentOption": ""
       }
     ],
-    "show": true,
+    "show": false,
     "type": "pack promo ",
     "images": [
       "https://i.ibb.co/d0ngPDst/blob.webp"
@@ -55,6 +55,35 @@
     "visit": 0,
     "orders": 0,
     "date": "2025-09-20T21:43:28.502Z",
+    "__v": 0
+  },
+  {
+    "imgs": [],
+    "_id": "68cf20dcca13471228b8dd9e",
+    "userId": "68c883cddd730fd7a986bf7e",
+    "name": "pack promo 1 mois ",
+    "price": 74500,
+    "Variants": [
+      {
+        "id": 0,
+        "name": "1 mois ",
+        "type": "dropdown",
+        "options": [
+          {
+            "name": "1 mois"
+          }
+        ],
+        "curentOption": ""
+      }
+    ],
+    "show": true,
+    "type": "pack promo ",
+    "images": [
+      "https://i.ibb.co/2337YHn3/blob.webp"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-09-20T21:47:08.098Z",
     "__v": 0
   }
 ]
