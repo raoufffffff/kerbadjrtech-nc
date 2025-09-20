@@ -1,11 +1,5 @@
 [
   {
-    "name": "sponsor",
-    "image": "https://i.ibb.co/v6S332Py/blob.webp",
-    "show": true,
-    "id": 4
-  },
-  {
     "image": "https://i.ibb.co/B2gR1cJM/blob.webp",
     "name": "filming ",
     "show": true,
@@ -16,11 +10,5 @@
     "name": "graphic desing ",
     "show": true,
     "id": 6
-  },
-  {
-    "name": "pack promo ",
-    "image": "https://i.ibb.co/FLBXNZrs/blob.webp",
-    "show": true,
-    "id": 4
   }
 ]
