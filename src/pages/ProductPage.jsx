@@ -35,12 +35,12 @@ const ProductPage = () => {
             behavior: "smooth"
         })
         if (facebookPixel.id && !pixelInitialized) {
-            ReactPixel.init(facebookPixel.id, {}, { debug: false });
+            ReactPixel.init(facebookPixel?.id, {}, { debug: false });
             pixelInitialized = true;
         }
 
         // Always track view
-        if (facebookPixel.id) {
+        if (facebookPixel?.id) {
             ReactPixel.pageView();
             ReactPixel.track("ViewContent", {
                 content_name: product.name,
@@ -79,3 +79,4 @@ const ProductPage = () => {
 };
 
 export default ProductPage;
+
