@@ -18,7 +18,7 @@ function App() {
     }
 
     // Init Facebook Pixel once
-    if (facebookPixel.id && !pixelInitialized) {
+    if (facebookPixel?.id && !pixelInitialized) {
       ReactPixel.init(facebookPixel.id, {}, { debug: false });
       ReactPixel.pageView(); // Track initial page view
       pixelInitialized = true;
