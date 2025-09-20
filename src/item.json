@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "imgs": [],
+    "_id": "68cf1fffca13471228b8dd94",
+    "userId": "68c883cddd730fd7a986bf7e",
+    "name": "pack promo 10 jour",
+    "price": 30000,
+    "Variants": [
+      {
+        "id": 0,
+        "name": "10 jour ",
+        "type": "dropdown",
+        "options": [
+          {
+            "name": "10 jour "
+          }
+        ],
+        "curentOption": ""
+      }
+    ],
+    "show": true,
+    "type": "pack promo ",
+    "images": [
+      "https://i.ibb.co/d0ngPDst/blob.webp"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-09-20T21:43:27.135Z",
+    "__v": 0
+  },
+  {
+    "imgs": [],
+    "_id": "68cf2000ca13471228b8dd96",
+    "userId": "68c883cddd730fd7a986bf7e",
+    "name": "pack promo 10 jour",
+    "price": 30000,
+    "Variants": [
+      {
+        "id": 0,
+        "name": "10 jour ",
+        "type": "dropdown",
+        "options": [
+          {
+            "name": "10 jour "
+          }
+        ],
+        "curentOption": ""
+      }
+    ],
+    "show": true,
+    "type": "pack promo ",
+    "images": [
+      "https://i.ibb.co/d0ngPDst/blob.webp"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-09-20T21:43:28.502Z",
+    "__v": 0
+  }
+]
