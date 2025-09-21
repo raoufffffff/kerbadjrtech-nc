@@ -29,5 +29,9 @@
     "aboutText": "We will contact you soon. Have a nice day."
   },
   "language": "en",
-  "EnableBerue": false
+  "EnableBerue": false,
+  "facebookPixel": {
+    "name": "Y6v6v",
+    "id": "Yc6v6vv"
+  }
 }
