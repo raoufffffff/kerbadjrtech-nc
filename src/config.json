@@ -1,33 +1,33 @@
 {
-    "id": "68c883cddd730fd7a986bf7e",
-    "logo": "https://i.ibb.co/N6tb1jbZ/blob.webp",
-    "store_name": "krtech",
-    "main_color": "#001637ff",
-    "phone": "0698320894",
-    "repoName": "kerbadjrtech-nc",
-    "facebook": "https://www.facebook.com/",
-    "instagram": "https://www.instagram.com/",
-    "tiktok": "https://www.tiktok.com/",
-    "email": "raouf.hamoudi.r@gmail.com",
-    "tiktokP": "",
-    "FacebookP": "",
-    "header": {
-        "name": true,
-        "logo": true,
-        "headercolor": "#62047c",
-        "namecolor": "#ffffff",
-        "barcolor": "#ffffff"
-    },
-    "thanks": {
-        "img": true,
-        "title": true,
-        "about": true,
-        "homebutton": false,
-        "phone": false,
-        "media": true,
-        "titleText": "Thank you for your order!",
-        "aboutText": "We will contact you soon. Have a nice day."
-    },
-    "language": "en",
-    "EnableBerue": false
+  "id": "68c883cddd730fd7a986bf7e",
+  "logo": "https://i.ibb.co/N6tb1jbZ/blob.webp",
+  "store_name": "krtech",
+  "main_color": "#001637ff",
+  "phone": "0698320894",
+  "repoName": "kerbadjrtech-nc",
+  "facebook": "https://www.facebook.com/",
+  "instagram": "https://www.instagram.com/",
+  "tiktok": "https://www.tiktok.com/",
+  "email": "raouf.hamoudi.r@gmail.com",
+  "tiktokP": "",
+  "FacebookP": "",
+  "header": {
+    "name": true,
+    "logo": true,
+    "headercolor": "#632fb1",
+    "namecolor": "#ffffff",
+    "barcolor": "#ffffff"
+  },
+  "thanks": {
+    "img": true,
+    "title": true,
+    "about": true,
+    "homebutton": false,
+    "phone": false,
+    "media": true,
+    "titleText": "Thank you for your order!",
+    "aboutText": "We will contact you soon. Have a nice day."
+  },
+  "language": "en",
+  "EnableBerue": false
 }
