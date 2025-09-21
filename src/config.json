@@ -28,5 +28,10 @@
     "titleText": "Thank you for your order!",
     "aboutText": "We will contact you soon. Have a nice day."
   },
-  "language": "en"
+  "language": "en",
+  "EnableBerue": false,
+  "facebookPixel": {
+    "name": "pack promo 10 jour",
+    "id": "6757567567576"
+  }
 }
