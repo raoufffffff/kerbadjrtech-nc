@@ -4,8 +4,8 @@
     "code": "01",
     "name": "Adrar",
     "ar_name": "أدرار",
-    "stop_back": 1000,
-    "prix_initial": 1500
+    "stop_back": 400,
+    "prix_initial": 3000
   },
   {
     "id": 2,
