@@ -18,7 +18,7 @@ const ProductPage = () => {
             ReactPixel.pageView();
 
             // Track product view (ViewContent event)
-            ReactPixel.track("ViewContent", {
+            ReactPixel.track("purchase", {
                 content_name: product.name,
                 content_ids: [product._id],
                 content_type: "product",
@@ -79,3 +79,4 @@ const ProductPage = () => {
 };
 
 export default ProductPage;
+
