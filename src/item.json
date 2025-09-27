@@ -62,17 +62,18 @@
     "_id": "68cf2159ca13471228b8dda4",
     "userId": "68c883cddd730fd7a986bf7e",
     "name": "pack promo 3 mois ",
-    "price": 229000,
+    "price": 255000,
     "Variants": [],
     "show": true,
     "type": "pack promo ",
     "images": [
-      "https://i.ibb.co/HfzJr4cL/blob.webp"
+      "https://i.ibb.co/kVTj3YVh/blob.webp"
     ],
-    "visit": 0,
+    "visit": 1,
     "orders": 0,
     "date": "2025-09-20T21:49:13.135Z",
-    "__v": 0
+    "__v": 0,
+    "Offers": []
   },
   {
     "imgs": [],
