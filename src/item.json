@@ -4,7 +4,7 @@
     "_id": "68cf1fffca13471228b8dd94",
     "userId": "68c883cddd730fd7a986bf7e",
     "name": "pack promo 10 jour",
-    "price": 30000,
+    "price": 27000,
     "Variants": [
       {
         "id": 0,
@@ -21,12 +21,13 @@
     "show": true,
     "type": "pack promo ",
     "images": [
-      "https://i.ibb.co/d0ngPDst/blob.webp"
+      "https://i.ibb.co/F4g2Z79X/blob.webp"
     ],
-    "visit": 1,
+    "visit": 2,
     "orders": 0,
     "date": "2025-09-20T21:43:27.135Z",
-    "__v": 0
+    "__v": 0,
+    "Offers": []
   },
   {
     "imgs": [],
