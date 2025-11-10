@@ -22,9 +22,9 @@
     "img": true,
     "title": true,
     "about": true,
-    "homebutton": false,
+    "homebutton": true,
     "phone": false,
-    "media": true,
+    "media": false,
     "titleText": "Thank you for your order!",
     "aboutText": "We will contact you soon. Have a nice day."
   },
