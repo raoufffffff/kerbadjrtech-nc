@@ -1,7 +1,7 @@
 {
   "id": "68c883cddd730fd7a986bf7e",
   "logo": "https://i.ibb.co/N6tb1jbZ/blob.webp",
-  "store_name": "krtech",
+  "store_name": "Jawahir",
   "main_color": "#001637ff",
   "phone": "0698320894",
   "repoName": "kerbadjrtech-nc",
@@ -28,8 +28,7 @@
     "titleText": "Thank you for your order!",
     "aboutText": "We will contact you soon. Have a nice day."
   },
-  "language": "en",
-  "EnableBerue": false,
+  "language": "ar",
   "facebookPixel": {
     "name": "r tech ",
     "id": "1304155647377340"
