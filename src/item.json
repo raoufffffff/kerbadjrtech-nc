@@ -48,36 +48,5 @@
     "orders": 0,
     "date": "2025-09-21T19:01:19.892Z",
     "__v": 0
-  },
-  {
-    "LadingPages": [],
-    "imgs": [],
-    "_id": "68d04ca37c2ff88d6571dd31",
-    "userId": "68c883cddd730fd7a986bf7e",
-    "name": "social media post desing ",
-    "price": 2500,
-    "Variants": [
-      {
-        "id": 0,
-        "name": "digital service ",
-        "type": "dropdown",
-        "options": [
-          {
-            "name": "1 post "
-          }
-        ],
-        "curentOption": ""
-      }
-    ],
-    "Offers": [],
-    "show": false,
-    "type": "graphic desing ",
-    "images": [
-      "https://i.ibb.co/nskLBFDT/blob.webp"
-    ],
-    "visit": 0,
-    "orders": 0,
-    "date": "2025-09-21T19:06:11.403Z",
-    "__v": 0
   }
 ]
