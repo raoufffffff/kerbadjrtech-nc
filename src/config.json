@@ -24,9 +24,9 @@
     "about": true,
     "homebutton": true,
     "phone": false,
-    "media": false,
-    "titleText": "Thank you for your order!",
-    "aboutText": "We will contact you soon. Have a nice day."
+    "media": true,
+    "titleText": "شكرا لثقتكم  ",
+    "aboutText": "سوف نتواصل معكم قريبا لتأكيد طلبكم "
   },
   "language": "ar",
   "facebookPixel": {
