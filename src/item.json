@@ -1,35 +1,6 @@
 [
   {
-    "imgs": [],
-    "_id": "68cf1fffca13471228b8dd94",
-    "userId": "68c883cddd730fd7a986bf7e",
-    "name": "pack promo 10 jour",
-    "price": 27000,
-    "Variants": [
-      {
-        "id": 0,
-        "name": "10 jour ",
-        "type": "dropdown",
-        "options": [
-          {
-            "name": "10 jour "
-          }
-        ],
-        "curentOption": ""
-      }
-    ],
-    "show": true,
-    "type": "pack promo ",
-    "images": [
-      "https://i.ibb.co/F4g2Z79X/blob.webp"
-    ],
-    "visit": 2,
-    "orders": 0,
-    "date": "2025-09-20T21:43:27.135Z",
-    "__v": 0,
-    "Offers": []
-  },
-  {
+    "LadingPages": [],
     "imgs": [],
     "_id": "68cf20dcca13471228b8dd9e",
     "userId": "68c883cddd730fd7a986bf7e",
@@ -48,7 +19,7 @@
         "curentOption": ""
       }
     ],
-    "show": true,
+    "show": false,
     "type": "pack promo ",
     "images": [
       "https://i.ibb.co/8Lg6qsW3/blob.webp"
@@ -60,13 +31,14 @@
     "Offers": []
   },
   {
+    "LadingPages": [],
     "imgs": [],
     "_id": "68cf2159ca13471228b8dda4",
     "userId": "68c883cddd730fd7a986bf7e",
     "name": "pack promo 3 mois ",
     "price": 255000,
     "Variants": [],
-    "show": true,
+    "show": false,
     "type": "pack promo ",
     "images": [
       "https://i.ibb.co/kVTj3YVh/blob.webp"
@@ -78,6 +50,7 @@
     "Offers": []
   },
   {
+    "LadingPages": [],
     "imgs": [],
     "_id": "68d04b7f7c2ff88d6571dd2d",
     "userId": "68c883cddd730fd7a986bf7e",
@@ -85,7 +58,7 @@
     "price": 4500,
     "Variants": [],
     "Offers": [],
-    "show": true,
+    "show": false,
     "type": "graphic desing ",
     "images": [
       "https://i.ibb.co/939nM28r/blob.webp"
@@ -96,6 +69,7 @@
     "__v": 0
   },
   {
+    "LadingPages": [],
     "imgs": [],
     "_id": "68d04ca37c2ff88d6571dd31",
     "userId": "68c883cddd730fd7a986bf7e",
@@ -115,7 +89,7 @@
       }
     ],
     "Offers": [],
-    "show": true,
+    "show": false,
     "type": "graphic desing ",
     "images": [
       "https://i.ibb.co/nskLBFDT/blob.webp"
