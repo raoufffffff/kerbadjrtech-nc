@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "imgs": [],
+    "_id": "692773c90eec0f353b176265",
+    "userId": "68c883cddd730fd7a986bf7e",
+    "name": "parfume",
+    "price": 3000,
+    "ShortDescription": "",
+    "LadingPages": [],
+    "Variants": [],
+    "Offers": [],
+    "show": true,
+    "type": "graphic desing ",
+    "images": [
+      "https://i.ibb.co/bj7yCSLR/blob.webp"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-11-26T21:40:25.255Z",
+    "__v": 0
+  }
+]
