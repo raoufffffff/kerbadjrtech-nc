@@ -22,5 +22,11 @@
     "name": "pack promo ",
     "show": false,
     "id": 4
+  },
+  {
+    "name": "أطقم نسائية ",
+    "image": "https://i.ibb.co/wZfwBZgy/blob.webp",
+    "show": true,
+    "id": 5
   }
 ]
